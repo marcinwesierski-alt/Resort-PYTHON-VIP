@@ -1,0 +1,22 @@
+{
+    "1_os": {
+        "powszedni": 200.0,
+        "weekend": 250.0,
+        "swieto": 300.0
+    },
+    "2_os": {
+        "powszedni": 550.0,
+        "weekend": 650.0,
+        "swieto": 750.0
+    },
+    "3_os": {
+        "powszedni": 750.0,
+        "weekend": 800.0,
+        "swieto": 850.0
+    },
+    "25_os": {
+        "powszedni": 150.0,
+        "weekend": 200.0,
+        "swieto": 220.0
+    }
+}

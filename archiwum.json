@@ -1,0 +1,41 @@
+[
+    {
+        "numer_rezerwacji": "1/2026/1",
+        "pokoj": 1,
+        "gosc": "Marian Cisowski",
+        "data_od": "2026-03-01",
+        "data_do": "2026-03-04"
+    },
+    {
+        "pokoj": 1,
+        "gosc": "Jan Kos",
+        "data_od": "2026-04-01",
+        "data_do": "2026-04-03",
+        "posilki": false,
+        "numer_rezerwacji": "1/2026/1"
+    },
+    {
+        "pokoj": 1,
+        "gosc": "Anna Marianna",
+        "data_od": "2026-03-24",
+        "data_do": "2026-03-29",
+        "posilki": false,
+        "numer_rezerwacji": "1/2026/2"
+    },
+    {
+        "pokoj": 2,
+        "gosc": "Anna Karenina",
+        "data_od": "2026-04-01",
+        "data_do": "2026-04-03",
+        "posilki": true,
+        "numer_rezerwacji": "2-1774897219"
+    },
+    {
+        "pokoj": 2,
+        "gosc": "Anna Karenina karelska",
+        "data_od": "2026-06-17",
+        "data_do": "2026-06-18",
+        "posilki": true,
+        "numer_rezerwacji": "2-1781632405"
+    }
+]

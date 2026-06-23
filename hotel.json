@@ -1,0 +1,34 @@
+[
+    {
+        "pokoj": 1,
+        "gosc": "Kamila Bednarek",
+        "data_od": "2026-06-19",
+        "data_do": "2026-06-23",
+        "posilki": false,
+        "numer_rezerwacji": "1-1781632382"
+    },
+    {
+        "pokoj": 1,
+        "gosc": "Anna Maria",
+        "data_od": "2026-06-23",
+        "data_do": "2026-06-30",
+        "posilki": true,
+        "numer_rezerwacji": "1-1781714434"
+    },
+    {
+        "pokoj": 3,
+        "gosc": "Alicja Czarująca",
+        "data_od": "2026-06-23",
+        "data_do": "2026-06-25",
+        "posilki": true,
+        "numer_rezerwacji": "3-1781632425"
+    },
+    {
+        "pokoj": 5,
+        "gosc": "Marian Kowalewski",
+        "data_od": "2026-06-20",
+        "data_do": "2026-06-23",
+        "posilki": true,
+        "numer_rezerwacji": "2/5"
+    }
+]
